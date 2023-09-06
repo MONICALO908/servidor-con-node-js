@@ -1,0 +1,19 @@
+{
+  "name": "servidor-con-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "servidor.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node servidor.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
